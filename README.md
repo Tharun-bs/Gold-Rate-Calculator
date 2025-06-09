@@ -1,6 +1,6 @@
 # Gold-Rate-Calculator
 💡 This tool allows users to calculate the total cost of gold based on weight, rate, making charges, wastage, and tax — all in a clean, responsive, and user-friendly interface.
-#💰 Gold Price Calculator App
+# 💰 Gold Price Calculator App
 A simple and elegant web application to calculate the total cost of gold based on weight, rate per gram, making charges, wastage, and tax. Built using HTML and CSS, this project provides a clean, responsive, and user-friendly interface.
 # 🧠 Features
 - Input fields for:
